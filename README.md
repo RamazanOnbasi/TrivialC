@@ -10,5 +10,6 @@ trivialC does a few overly specific and unrelated tasks. Those tasks include:
 
 5) Filling an array with random integers but without any repetition.
   
+  
 Please refere to explanation-of-the-code.docx for further details.
 
